@@ -18,7 +18,7 @@
 
 ## 3) 제출 기간
 
-- 최종 보고서: 2026-06-12(금) 23:59까지
+- 최종 보고서: 2026-12-xx 23:59까지
 
 ## 4) 분량 및 작성 규칙
 
@@ -74,7 +74,7 @@
 ## 6) 제출 체크
 
 - Report/Submission 폴더에 최종본만 유지
-- GitHub 제출 경로: [@2026-1st/.github/edit/main/Report/Submission/](../Submission/)
+- GitHub 제출 경로: [@2026-2nd/.github/edit/main/Report/Submission/](../Submission/)
 
 ## 7) 커밋 메시지 규칙
 
