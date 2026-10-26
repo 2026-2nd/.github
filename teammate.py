@@ -5,7 +5,7 @@ import math
 # -----------------------------
 # 1. 엑셀 로딩
 # -----------------------------
-FILE_PATH = "/Users/songhune/Downloads/[2026-1]기계학습기초 팀배정 사전설문지(응답).xlsx"
+FILE_PATH = "$USE$YOUR$PATH$.xlsx"
 SHEET_NAME = "설문지 응답 시트1"  # 파일 구조 기준[file:1]
 
 df = pd.read_excel(FILE_PATH, sheet_name=SHEET_NAME)
