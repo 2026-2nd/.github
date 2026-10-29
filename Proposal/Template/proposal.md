@@ -1,7 +1,7 @@
 ---
-title: 2026-1 기계학습기초 팀 프로젝트 Proposal
+title: 2026-2 기계학습기초 팀 프로젝트 Proposal
 author: 1팀
-date: 2026-04-29
+date: 2026-11-xx
 lang: ko-KR
 fontsize: 10pt
 bibliography: references.bib
